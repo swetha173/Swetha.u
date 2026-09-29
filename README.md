@@ -1,22 +1,23 @@
-# Hi there, I'm Swetha.u 👋
+# 💪 FitBuddy - AI Fitness Plan Generator
 
-### ✨ Welcome to my GitHub!
+Hi there, I'm Swetha.u 👋
 
-I am passionate about learning new technologies and building creative projects.
+An AI-powered fitness application using Google Gemini Models to create personalized fitness plans!
 
-#### 🌱 What I'm Currently Doing
-- 🎓 Learning Git & GitHub
-- 💻 Exploring Web Development
-- 📚 Working on college projects
+### 🌟 Features
+- Personalized Workout Plans
+- AI Diet Recommendations  
+- Gemini AI Powered
+- FastAPI Backend
 
-#### 🛠️ Tech Stack
-- HTML | CSS | JavaScript
+### 🛠️ Tech Stack
 - Python
-- Git & GitHub
+- FastAPI
+- Google Gemini API
+- GitHub
 
-#### 📫 Let's Connect!
-- GitHub: @swetha173
+### 👩‍💻 Created by Swetha.U
+Swetha173
 
-> "Learning never exhausts the mind." ✨
-
-Thanks for visiting! 😊
+---
+✨ Welcome to my GitHub!
